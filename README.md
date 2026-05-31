@@ -1,0 +1,1 @@
+This repository has some practice verilog codes with simulation output with it. It also has .XDC files for Basys 3 board so that these program can be implemented in Basys 3 FPGA Board using Xilinx Vivado 2025.2
