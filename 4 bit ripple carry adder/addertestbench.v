@@ -12,7 +12,7 @@
 // 
 // Revision:
 // Revision 0.01 - File Created
-// Additional Comments: *This test bech gives somes sample inputs to the DUT to check its functionality
+// Additional Comments: *This test bench gives somes sample inputs to the DUT to check its functionality
 // 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
 
