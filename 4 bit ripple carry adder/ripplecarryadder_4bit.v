@@ -9,7 +9,7 @@
 // Target Devices: Basys 3 FPGA Board
 // Tool Versions: 2025.2
 // 
-// Dependencies: fulladder.v, Xilinx Vivado
+// Dependencies: fulladder.v, Xilinx Vivado, Basys3.XDC
 // 
 // Revision:
 // Revision 0.01 - File Created
